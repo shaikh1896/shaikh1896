@@ -1,5 +1,7 @@
 Hi there 👋
-I'm Shaikh. Based in New Delhi, India 📍
+
+**I'm Shaikh. Based in New Delhi, India 📍**
+
 I’m currently working on building data projects to start my career in data engineering 🔨
 
 What I'm currently learning 🌱
