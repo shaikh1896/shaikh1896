@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Mohd Shaikh
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Airflow
-- 💞️ I’m looking to collaborate on Project related to Data engineering , Data Analytics
-- I am currently working as a Data engineer where i make data available to my team and relevant stakeholders.
+Hi there 👋
+I'm Shaikh. Based in New Delhi, India 📍
+I’m currently working on building data projects to start my career in data engineering 🔨
+
+What I'm currently learning 🌱
+|  Programming |  Visualization | Google Cloud      | DevOps         |  Databases  |
+|--------------|-----------------|------------------|----------------|-------------|
+|  SQL         |  Redash        | BigQuery          | Docker         |  SQL Server |
+|  Python      |  Looker Studio | Cloud Function    | Terraform      |             |
+|  Bash        |  Power BI      | Cloud Run         | GitHub Actions |             |
+|              |                | Cloud SQL         |                |             |
+|              |                | Cloud Spanner     |                |             |
+|              |                | Cloud Dataflow    |                |             |
+|              |                | Cloud Datafusion  |                |             |
+
+Current certifications:
+-- Google Cloud: Associate Cloud Engineer
 <!---
 shaikh1896/shaikh1896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
