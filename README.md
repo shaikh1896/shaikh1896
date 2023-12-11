@@ -14,7 +14,7 @@ What I'm currently learning 🌱
 |              |                | Cloud Datafusion  |                |             |
 
 Current certifications:
--- Google Cloud: Associate Cloud Engineer
+-- Databricks: Associate Data Engineer
 <!---
 shaikh1896/shaikh1896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
