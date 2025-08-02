@@ -1,6 +1,6 @@
 Hi there 👋
 
-**I'm Shaikh. Based in New Delhi, India 📍**
+**I'm Shaikh. Based in Hildesheim, Germany 📍**
 
 I’m currently working on building data projects to start my career in data engineering 🔨
 
